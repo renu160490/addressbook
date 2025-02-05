@@ -1,4 +1,3 @@
-New line added
 Created Pipeline View
 Addressbook Tutorial
 ====================
